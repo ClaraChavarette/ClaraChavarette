@@ -5,7 +5,7 @@
 Me chamo Clara Chavarette, tenho 20 anos e sou do estado de São Paulo. Atualmente, estou cursando Ciência da Computação na UNIP. Sou apaixonada por tecnologia, resolver problemas e aprender.
 
 
-###💻 Tecnologias:
+### 💻 Tecnologias:
 
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
